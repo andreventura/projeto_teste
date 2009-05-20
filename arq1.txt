@@ -1,1 +1,6 @@
+<<<<<<< HEAD:arq1.txt
 ccc
+=======
+aaa
+bbb
+>>>>>>> 16d4ddabf5a8fab74da75a9d18281aa3fa0e58a1:arq1.txt
